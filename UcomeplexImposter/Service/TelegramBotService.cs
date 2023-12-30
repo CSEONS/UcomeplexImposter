@@ -5,7 +5,7 @@ namespace UcomeplexImposter.Service
 {
     public class TelegramBotService
     {
-        public const long ChatId = -4099060742;
+        public const long ChatId = -4040275588;
 
         private readonly TelegramBotClient _botClient;
 
